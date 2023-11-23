@@ -1,0 +1,14 @@
+C:\WORKSPACE - C#\delegates\delegates\obj\Debug\net7.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE - C#\delegates\delegates\obj\Debug\net7.0\delegates.AssemblyInfoInputs.cache
+C:\WORKSPACE - C#\delegates\delegates\obj\Debug\net7.0\delegates.AssemblyInfo.cs
+C:\WORKSPACE - C#\delegates\delegates\obj\Debug\net7.0\delegates.csproj.CoreCompileInputs.cache
+C:\WORKSPACE - C#\delegates\delegates\bin\Debug\net7.0\delegates.exe
+C:\WORKSPACE - C#\delegates\delegates\bin\Debug\net7.0\delegates.deps.json
+C:\WORKSPACE - C#\delegates\delegates\bin\Debug\net7.0\delegates.runtimeconfig.json
+C:\WORKSPACE - C#\delegates\delegates\bin\Debug\net7.0\delegates.dll
+C:\WORKSPACE - C#\delegates\delegates\bin\Debug\net7.0\delegates.pdb
+C:\WORKSPACE - C#\delegates\delegates\obj\Debug\net7.0\delegates.dll
+C:\WORKSPACE - C#\delegates\delegates\obj\Debug\net7.0\refint\delegates.dll
+C:\WORKSPACE - C#\delegates\delegates\obj\Debug\net7.0\delegates.pdb
+C:\WORKSPACE - C#\delegates\delegates\obj\Debug\net7.0\delegates.genruntimeconfig.cache
+C:\WORKSPACE - C#\delegates\delegates\obj\Debug\net7.0\ref\delegates.dll
